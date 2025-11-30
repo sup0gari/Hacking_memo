@@ -7,7 +7,7 @@ IPアドレス、都市、ポート番号、脆弱なソフトウェアバージ
 [https://haveibeenpwned.com](HaveIBeenPwned?)  
 メールアドレスやドメイン名を入力し、過去のデータ漏洩事故でその情報が流出しているかを確認。  
 [https://censys.io](Censys)  
-インターネット全体をスキャンし、SSL/TLS証明書やネットワークプロトコルに関する詳細な構造化データを提供。
+インターネット全体をスキャンし、SSL/TLS証明書やネットワークプロトコルに関する詳細な構造化データを提供。  
 [https://web.archive.org](WaybackMachine)  
 過去のWebサイトのアーカイブされたスナップショットを閲覧。現在は削除された隠しページや古いコードを発見。  
 [https://github.com](GitHub)  
