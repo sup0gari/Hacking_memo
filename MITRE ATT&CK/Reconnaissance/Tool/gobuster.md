@@ -16,6 +16,6 @@ gobuster vhost -u <ターゲット> -w <使用するワードリストのパス>
 ## ワードリスト(kali linux)
 ディレクトリ検索
 `/usr/share/wordlists/dirb/common.txt`
-`/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt`
+`/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt`  
 サブドメイン検索
 `/usr/share/seclists/Discovery/DNS/subdomains-<ワード数>.txt`
